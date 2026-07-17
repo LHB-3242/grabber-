@@ -1,4 +1,3 @@
-
 import sys, os, subprocess, shutil, base64, json, sqlite3, win32crypt, ctypes
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
